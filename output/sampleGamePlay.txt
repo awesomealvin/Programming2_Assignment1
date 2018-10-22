@@ -1,0 +1,104 @@
+Initialising game map -- number of rooms: 5
+------------------------------------------------------------------------
+You are alone in a  cold room. It is very silent...  
+There is a door labeled with the number  2
+Command? open 2
+------------------------------------------------------------------------
+Opening door 2
+You are in a room with a single window that cannot be opened.
+There is $367 of gold on the floor in front of you.
+There are doors labeled with numbers  1 3 5
+Command? pickup gold
+------------------------------------------------------------------------
+You pick up the gold, increasing your gold to $367
+You are in a room with a single window that cannot be opened.
+There are doors labeled with numbers  1 3 5
+Command? open 3
+------------------------------------------------------------------------
+Opening door 3
+The ceiling is low in this room and it feels warm.
+There is $374 of gold on the floor in front of you.
+There is a dagger on the floor in front of you.
+There are doors labeled with numbers  2 5
+Command? help
+------------------------------------------------------------------------
+Command list:
+     open n: open the door labeled n and enter the room
+pickup item: pick up an item in the room
+     search: search the room to find the exit
+------------------------------------------------------------------------
+The ceiling is low in this room and it feels warm.
+There is $374 of gold on the floor in front of you.
+There is a dagger on the floor in front of you.
+There are doors labeled with numbers  2 5
+Command? pickup gold
+------------------------------------------------------------------------
+You pick up the gold, increasing your gold to $741
+The ceiling is low in this room and it feels warm.
+There is a dagger on the floor in front of you.
+There are doors labeled with numbers  2 5
+Command? Pickup dagger
+------------------------------------------------------------------------
+You pick up the dagger.
+The ceiling is low in this room and it feels warm.
+There are doors labeled with numbers  2 5
+Command? open 2
+------------------------------------------------------------------------
+Opening door 2
+You are in a room with a single window that cannot be opened.
+There are doors labeled with numbers  1 3 5
+
+A monster draws near!
+Prepare for battle!
+Command? help
+------------------------------------------------------------------------
+Command list:
+fight: attack the monster with your fists or dagger
+  run: run away to a randomly selected connecting room
+
+A monster draws near!
+Prepare for battle!
+Command? attack
+------------------------------------------------------------------------
+You strike the monster with the dagger!
+The monster loses 60% Health
+The monster attacks!
+You lose 18% Health
+Command? attack
+------------------------------------------------------------------------
+You strike the monster with the dagger!
+The monster loses 70% Health.
+The monster has been defeated!
+The monster drops $490 in gold
+------------------------------------------------------------------------
+You are in a room with a single window that cannot be opened.
+There are doors labeled with numbers  1 3 5
+There is $490 of gold on the floor in front of you.
+Command? pickup gold
+------------------------------------------------------------------------
+You pick up the gold, increasing your gold to $1231
+You are in a room with a single window that cannot be opened.
+There are doors labeled with numbers  1 3 5
+Command? search
+------------------------------------------------------------------------
+You search the room... but find nothing.
+You are in a room with a single window that cannot be opened.
+There are doors labeled with numbers  1 3 5
+Command? open 5
+------------------------------------------------------------------------
+Opening door 5
+You are in a massive room with a very high ceiling.
+There are 118 pieces of gold on the floor in front of you.
+There are doors labeled with numbers  3 4
+Command? pickup gold
+------------------------------------------------------------------------
+You pick up the gold, increasing your gold to $1349
+You are in a massive room.
+There are doors labeled with numbers  3 4
+Command? open 4
+------------------------------------------------------------------------
+The room is dark.
+command? search
+------------------------------------------------------------------------
+You found the exit -- your quest has ended!
+You have $1231 gold in total.

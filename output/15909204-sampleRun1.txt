@@ -1,0 +1,148 @@
+Initialising Game Map -- number of rooms: 6
+Type and enter "help" for a list of available commands.
+------------------------------------------------------------------------
+You are alone in a cold room. There is an opening above you.
+There are door(s) labeled: 2
+========================================================================
+Command: help
+Available Commands:
+    open [n]|--|Opens door labeled n
+     search |--|Search room for items
+pickup[item]|--|Pickup an item labeled item
+        heal|--|Attempt to heal yourself
+       stats|--|Display your current stats and inventory
+        yell|--|Force a fight with an enemy
+      escape|--|Attempt to escape the dungeon
+       hints|--|Show next hint
+        help|--|Displays current available commands
+------------------------------------------------------------------------
+You are alone in a cold room. There is an opening above you.
+There are door(s) labeled: 2
+========================================================================
+Command: search
+You search the room...
+You find no items in the current room.
+------------------------------------------------------------------------
+You are alone in a cold room. There is an opening above you.
+There are door(s) labeled: 2
+========================================================================
+Command: open 2
+You open the door...
+------------------------------------------------------------------------
+You are in a room with a single window that cannot be opened.
+There are door(s) labeled: 1, 3, 5
+========================================================================
+Command: search
+You search the room...
+There are item(s) in current room:
+- Stack of cash containing: $279.00
+------------------------------------------------------------------------
+You are in a room with a single window that cannot be opened.
+There are door(s) labeled: 1, 3, 5
+========================================================================
+Command: pickup cash
+You have obtained $279.00
+Your current bank: $279.00
+------------------------------------------------------------------------
+You are in a room with a single window that cannot be opened.
+There are door(s) labeled: 1, 3, 5
+========================================================================
+Command: open 3
+You open the door...
+========================================================================
+Flappity flap is what you hear...
+A bat flies towards you!
+Prepare for battle!
+--------------------------
+Press ENTER to continue...
+--------------------------
+========================================================================
+Command: attack
+You punch your opponent for 56% of their max health.
+Bat's Current Health: 44%
+--------------------------
+Press ENTER to continue...
+--------------------------
+Bat has bit you for 4% of your max health.
+Current Player Health: 96%
+========================================================================
+Command: attack
+You punch your opponent for 52% of their max health.
+Bat has been defeated!
+--------------------------
+Press ENTER to continue...
+--------------------------
+You have obtained $258.00
+Your current bank: $537.00
+------------------------------------------------------------------------
+The ceiling is low in this room and it feels warm.
+There are door(s) labeled: 2, 5
+========================================================================
+Command: search
+You search the room...
+There are item(s) in current room:
+- Stack of cash containing: $600.00
+- A very cool sword
+------------------------------------------------------------------------
+The ceiling is low in this room and it feels warm.
+There are door(s) labeled: 2, 5
+========================================================================
+Command: pickup sword
+You have obtained a very cool sword!
+You will now deal bonus damage!
+------------------------------------------------------------------------
+The ceiling is low in this room and it feels warm.
+There are door(s) labeled: 2, 5
+========================================================================
+Command: pickup cash
+You have obtained $600.00
+Your current bank: $1,137.00
+========================================================================
+Flappity flap is what you hear...
+A bat flies towards you!
+Prepare for battle!
+--------------------------
+Press ENTER to continue...
+--------------------------
+========================================================================
+Command: attack
+You slash your opponent with your sword for 96% of their max health.
+Bat's Current Health: 4%
+--------------------------
+Press ENTER to continue...
+--------------------------
+Bat has screeched at you for 3% of your max health.
+Current Player Health: 93%
+========================================================================
+Command: attack
+You slash your opponent with your sword for 98% of their max health.
+Bat has been defeated!
+--------------------------
+Press ENTER to continue...
+--------------------------
+You have obtained $230.00
+Your current bank: $1,367.00
+------------------------------------------------------------------------
+The ceiling is low in this room and it feels warm.
+There are door(s) labeled: 2, 5
+========================================================================
+Command: help
+Available Commands:
+    open [n]|--|Opens door labeled n
+     search |--|Search room for items
+pickup[item]|--|Pickup an item labeled item
+        heal|--|Attempt to heal yourself
+       stats|--|Display your current stats and inventory
+        yell|--|Force a fight with an enemy
+      escape|--|Attempt to escape the dungeon
+       hints|--|Show next hint
+        help|--|Displays current available commands
+------------------------------------------------------------------------
+The ceiling is low in this room and it feels warm.
+There are door(s) labeled: 2, 5
+========================================================================
+Command: stats
+Room: 3
+Health: 93%
+Cash: $1,367.00
+Inventory: Sword, Bandages x1 

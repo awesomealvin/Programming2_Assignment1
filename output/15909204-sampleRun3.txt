@@ -1,0 +1,190 @@
+Initialising Game Map -- number of rooms: 6
+Type and enter "help" for a list of available commands.
+------------------------------------------------------------------------
+You are alone in a cold room. There is an opening above you.
+There are door(s) labeled: 2
+========================================================================
+Command: open 2
+You open the door...
+------------------------------------------------------------------------
+You are in a room with a single window that cannot be opened.
+There are door(s) labeled: 1, 3, 5
+========================================================================
+Command: open 3
+You open the door...
+------------------------------------------------------------------------
+The ceiling is low in this room and it feels warm.
+There are door(s) labeled: 2, 5
+========================================================================
+Command: pickup sword
+You have obtained a very cool sword!
+You will now deal bonus damage!
+========================================================================
+Flappity flap is what you hear...
+A bat flies towards you!
+Prepare for battle!
+--------------------------
+Press ENTER to continue...
+--------------------------
+========================================================================
+Command: attack
+You slash your opponent with your sword for 99% of their max health.
+Bat's Current Health: 1%
+--------------------------
+Press ENTER to continue...
+--------------------------
+Bat has bit you for 5% of your max health.
+Current Player Health: 95%
+========================================================================
+Command: attack
+You cut your opponent with your sword for 82% of their max health.
+Bat has been defeated!
+--------------------------
+Press ENTER to continue...
+--------------------------
+You have obtained $113.00
+Your current bank: $113.00
+------------------------------------------------------------------------
+The ceiling is low in this room and it feels warm.
+There are door(s) labeled: 2, 5
+========================================================================
+Command: pickup cash
+You have obtained $337.00
+Your current bank: $450.00
+========================================================================
+You hear the sound of footsteps growing louder...
+A goblin rushes towards you!
+Prepare for battle!
+--------------------------
+Press ENTER to continue...
+--------------------------o
+========================================================================
+Command: attack
+You slash your opponent with your sword for 67% of their max health.
+Goblin's Current Health: 33%
+--------------------------
+Press ENTER to continue...
+--------------------------
+Goblin has punched you for 12% of your max health.
+Current Player Health: 83%
+========================================================================
+Command: attack
+You slash your opponent with your sword for 63% of their max health.
+Goblin has been defeated!
+--------------------------
+Press ENTER to continue...
+--------------------------
+You have obtained $430.00
+Your current bank: $880.00
+------------------------------------------------------------------------
+The ceiling is low in this room and it feels warm.
+There are door(s) labeled: 2, 5
+========================================================================
+Command: open 2
+You open the door...
+------------------------------------------------------------------------
+You are in a room with a single window that cannot be opened.
+There are door(s) labeled: 1, 3, 5
+========================================================================
+Command: pickup sword
+========================================================================
+You hear the sound of footsteps growing louder...
+A goblin rushes towards you!
+Prepare for battle!
+--------------------------
+Press ENTER to continue...
+--------------------------
+========================================================================
+Command: attack
+You lunge towards your opponent with your sword for 72% of their max health.
+Goblin's Current Health: 28%
+--------------------------
+Press ENTER to continue...
+--------------------------
+Goblin has punched you for 11% of your max health.
+Current Player Health: 72%
+========================================================================
+Command: attack
+You lunge towards your opponent with your sword for 75% of their max health.
+Goblin has been defeated!
+--------------------------
+Press ENTER to continue...
+--------------------------
+You have obtained $655.00
+Your current bank: $1,535.00
+------------------------------------------------------------------------
+You are in a room with a single window that cannot be opened.
+There are door(s) labeled: 1, 3, 5
+========================================================================
+Command: open 5
+You open the door...
+------------------------------------------------------------------------
+You are in a massive room with a very high ceiling.
+There are door(s) labeled: 3, 4, 2
+========================================================================
+Command: search
+You search the room...
+There are item(s) in current room:
+- Stack of cash containing: $361.00
+------------------------------------------------------------------------
+You are in a massive room with a very high ceiling.
+There are door(s) labeled: 3, 4, 2
+========================================================================
+Command: pickup cash
+You have obtained $361.00
+Your current bank: $1,896.00
+------------------------------------------------------------------------
+You are in a massive room with a very high ceiling.
+There are door(s) labeled: 3, 4, 2
+========================================================================
+Command: open 4
+You open the door...
+------------------------------------------------------------------------
+This room has a sign that reads: Shop 6.
+There are door(s) labeled: 5, 6
+========================================================================
+Command: search
+You search the room...
+There are item(s) in current room:
+- Stack of cash containing: $329.00
+------------------------------------------------------------------------
+This room has a sign that reads: Shop 6.
+There are door(s) labeled: 5, 6
+========================================================================
+Command: pickup cash
+You have obtained $329.00
+Your current bank: $2,225.00
+========================================================================
+Flappity flap is what you hear...
+A bat flies towards you!
+Prepare for battle!
+--------------------------
+Press ENTER to continue...
+--------------------------
+========================================================================
+Command: attack
+You cut your opponent with your sword for 76% of their max health.
+Bat's Current Health: 23%
+--------------------------
+Press ENTER to continue...
+--------------------------
+Bat has screeched at you for 3% of your max health.
+Current Player Health: 69%
+========================================================================
+Command: attack
+You slash your opponent with your sword for 86% of their max health.
+Bat has been defeated!
+--------------------------
+Press ENTER to continue...
+--------------------------
+You have obtained $122.00
+Your current bank: $2,347.00
+------------------------------------------------------------------------
+This room has a sign that reads: Shop 6.
+There are door(s) labeled: 5, 6
+========================================================================
+Command: stats
+Room: 4
+Health: 69%
+Cash: $2,347.00
+Inventory: Sword, Bandages x1 

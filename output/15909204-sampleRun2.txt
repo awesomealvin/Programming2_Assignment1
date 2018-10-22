@@ -1,0 +1,123 @@
+Initialising Game Map -- number of rooms: 6
+Type and enter "help" for a list of available commands.
+------------------------------------------------------------------------
+You are alone in a cold room. There is an opening above you.
+There are door(s) labeled: 2
+========================================================================
+Command: help
+Available Commands:
+    open [n]|--|Opens door labeled n
+     search |--|Search room for items
+pickup[item]|--|Pickup an item labeled item
+        heal|--|Attempt to heal yourself
+       stats|--|Display your current stats and inventory
+        yell|--|Force a fight with an enemy
+      escape|--|Attempt to escape the dungeon
+       hints|--|Show next hint
+        help|--|Displays current available commands
+------------------------------------------------------------------------
+You are alone in a cold room. There is an opening above you.
+There are door(s) labeled: 2
+========================================================================
+Command: hints
+The "help" command shows ALL available commands; they may be useful!
+------------------------------------------------------------------------
+You are alone in a cold room. There is an opening above you.
+There are door(s) labeled: 2
+========================================================================
+Command: hints
+Looks like you'll need climbing equipment to go up that hole!
+------------------------------------------------------------------------
+You are alone in a cold room. There is an opening above you.
+There are door(s) labeled: 2
+========================================================================
+Command: hints
+Completing an action can be pretty risky...
+------------------------------------------------------------------------
+You are alone in a cold room. There is an opening above you.
+There are door(s) labeled: 2
+========================================================================
+Command: hints
+If you're low on health, healing is possible!
+------------------------------------------------------------------------
+You are alone in a cold room. There is an opening above you.
+There are door(s) labeled: 2
+========================================================================
+Command: hints
+Check your inventory, you may have starting equipment!
+------------------------------------------------------------------------
+You are alone in a cold room. There is an opening above you.
+There are door(s) labeled: 2
+========================================================================
+Command: hints
+Not dealing enough damage? There may be a sword lying around somewhere!
+------------------------------------------------------------------------
+You are alone in a cold room. There is an opening above you.
+There are door(s) labeled: 2
+========================================================================
+Command: hints
+Maybe farming is the best option for wealth...
+------------------------------------------------------------------------
+You are alone in a cold room. There is an opening above you.
+There are door(s) labeled: 2
+========================================================================
+Command: hints
+There is a shop that may sell useful items!
+------------------------------------------------------------------------
+You are alone in a cold room. There is an opening above you.
+There are door(s) labeled: 2
+========================================================================
+Command: hints
+Careful! There seems to be a large creature that doesn't want anyone escaping!
+------------------------------------------------------------------------
+You are alone in a cold room. There is an opening above you.
+There are door(s) labeled: 2
+========================================================================
+Command: hints
+The "help" command shows ALL available commands; they may be useful!
+------------------------------------------------------------------------
+You are alone in a cold room. There is an opening above you.
+There are door(s) labeled: 2
+========================================================================
+Command: open 2
+You open the door...
+------------------------------------------------------------------------
+You are in a room with a single window that cannot be opened.
+There are door(s) labeled: 1, 3, 5
+========================================================================
+Command: open 3
+You open the door...
+========================================================================
+Flappity flap is what you hear...
+A bat flies towards you!
+Prepare for battle!
+--------------------------
+Press ENTER to continue...
+--------------------------
+========================================================================
+Command: attack
+You kick your opponent for 78% of their max health.
+Bat's Current Health: 22%
+--------------------------
+Press ENTER to continue...
+--------------------------
+Bat has screeched at you for 3% of your max health.
+Current Player Health: 97%
+========================================================================
+Command: attack
+You punch your opponent for 42% of their max health.
+Bat has been defeated!
+--------------------------
+Press ENTER to continue...
+--------------------------
+You have obtained $238.00
+Your current bank: $238.00
+------------------------------------------------------------------------
+The ceiling is low in this room and it feels warm.
+There are door(s) labeled: 2, 5
+========================================================================
+Command: stats
+Room: 3
+Health: 97%
+Cash: $238.00
+Inventory: Bandages x1 
